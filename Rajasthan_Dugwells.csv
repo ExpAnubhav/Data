@@ -1,0 +1,67 @@
+Code,Value,Census,Source,Source_Type,Parameter,Sub_Type,Unit
+MI05GW01A01,618350,Minor Irrigation 5,Ground Water,Dugwell,Type,Number of Dugwell-Pucca,Number
+MI05GW01A02,80227,Minor Irrigation 6,Ground Water,Dugwell,Type,Number of Dugwell-Kutcha,Number
+MI05GW01A03,176594,Minor Irrigation 7,Ground Water,Dugwell,Type,Number of Dugwell-Dug-cum bore well,Number
+MI05GW01A04,443,Minor Irrigation 8,Ground Water,Dugwell,Type,Number of Dugwell-Others,Number
+MI05GW01B01,832503,Minor Irrigation 9,Ground Water,Dugwell,Distribution by Status of Utilisation,Dugwells in use,Number
+MI05GW01B02,21838,Minor Irrigation 10,Ground Water,Dugwell,Distribution by Status of Utilisation,Dugwells not in use - Temporary,Number
+MI05GW01B03,21273,Minor Irrigation 11,Ground Water,Dugwell,Distribution by Status of Utilisation,Dugwells not in use - Parmanent,Number
+MI05GW01C01,325951,Minor Irrigation 12,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Open Water - Total No,Number
+MI05GW01C02,836869.51,Minor Irrigation 13,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Open Water - Total PU,Hactares
+MI05GW01C03,63726,Minor Irrigation 14,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Under ground pipe - No.,Hactares
+MI05GW01C04,182053.66,Minor Irrigation 15,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Under ground pipe - PU,Hactares
+MI05GW01C05,300219,Minor Irrigation 16,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Surface pipe - No.,Number
+MI05GW01C06,935093.97,Minor Irrigation 17,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Surface pipe - PU,Hactares
+MI05GW01C07,4936,Minor Irrigation 18,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Drip - No.,Number
+MI05GW01C08,12837.65,Minor Irrigation 19,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Drip - PU,Hactares
+MI05GW01C09,137039,Minor Irrigation 20,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Sprinkler - No.,Number
+MI05GW01C10,718842.3,Minor Irrigation 21,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Sprinkler - PU,Hactares
+MI05GW01C11,632,Minor Irrigation 22,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Others - No.,Number
+MI05GW01C12,1500.91,Minor Irrigation 23,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell Others - PU,Hactares
+MI05GW01C13,832503,Minor Irrigation 24,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell TOTAL - NUMBER,Number
+MI05GW01C14,2687198,Minor Irrigation 25,Ground Water,Dugwell,Distribution according to Water Distribution System and Potential Utilised,Dugwell TOTAL - POTENTIAL UTILISED,Hactares
+MI05GW01D01,2091,Minor Irrigation 26,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 0-2 HP,Number
+MI05GW01D02,52199,Minor Irrigation 27,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 2-4 HP,Number
+MI05GW01D03,322206,Minor Irrigation 28,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 4-6 HP,Number
+MI05GW01D04,115614,Minor Irrigation 29,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 6-8 HP,Number
+MI05GW01D05,125579,Minor Irrigation 30,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 8-10 HP,Number
+MI05GW01D06,205627,Minor Irrigation 31,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - Above 10 HP,Number
+MI05GW01D07,21674,Minor Irrigation 32,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - Schemes without horse power,Number
+MI05GW01E01,779490,Minor Irrigation 33,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - <200 hrs,Number
+MI05GW01E02,27179,Minor Irrigation 34,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 200-400 hrs,Number
+MI05GW01E03,10800,Minor Irrigation 35,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 400-600,Number
+MI05GW01E04,4324,Minor Irrigation 36,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 600-800 hrs,Number
+MI05GW01E05,904,Minor Irrigation 37,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 800-1000 hrs,Number
+MI05GW01E06,619,Minor Irrigation 38,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - >=1000 hrs,Number
+MI05GW01E07,290889,Minor Irrigation 39,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - <200 hrs,Number
+MI05GW01E08,204241,Minor Irrigation 40,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 200-400 hrs,Number
+MI05GW01E09,155066,Minor Irrigation 41,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 400-600 hrs,Number
+MI05GW01E10,117126,Minor Irrigation 42,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 600-800 hrs,Number
+MI05GW01E11,39611,Minor Irrigation 43,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 800-1000 hrs,Number
+MI05GW01E12,16383,Minor Irrigation 44,Ground Water,Dugwell,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - >=1000 hrs,Number
+MI05GW01F01,2775950.02,Minor Irrigation 45,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Culturable Command Area,Hactares
+MI05GW01F02,411734.35,Minor Irrigation 46,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Kharif,Hactares
+MI05GW01F03,2580478.55,Minor Irrigation 47,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Rabi,Hactares
+MI05GW01F04,4626.29,Minor Irrigation 48,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Perennial,Hactares
+MI05GW01F05,79372.57,Minor Irrigation 49,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Other,Hactares
+MI05GW01G01,2878077.8,Minor Irrigation 50,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Culturable Command Area,Hactares
+MI05GW01G02,424922.47,Minor Irrigation 51,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Kharif,Hactares
+MI05GW01G03,2674411.55,Minor Irrigation 52,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Rabi,Hactares
+MI05GW01G04,5305.49,Minor Irrigation 53,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Perennial,Hactares
+MI05GW01G05,80649.81,Minor Irrigation 54,Ground Water,Dugwell,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Other,Hactares
+MI05GW01H01,7088.62,Minor Irrigation 55,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Kharif,Hactares
+MI05GW01H02,88720.15,Minor Irrigation 56,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Rabi,Hactares
+MI05GW01H03,98.81,Minor Irrigation 57,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Perennial,Hactares
+MI05GW01H04,701.05,Minor Irrigation 58,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Others,Hactares
+MI05GW01H05,228521.19,Minor Irrigation 59,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Kharif,Hactares
+MI05GW01H06,2315111.2,Minor Irrigation 60,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Rabi,Hactares
+MI05GW01H07,2154.33,Minor Irrigation 61,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Perennial,Hactares
+MI05GW01H08,49059.49,Minor Irrigation 62,Ground Water,Dugwell,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Others,Hactares
+MI05GW01I01,7086.65,Minor Irrigation 63,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Kharif,Hactares
+MI05GW01I02,88566.49,Minor Irrigation 64,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Rabi,Hactares
+MI05GW01I03,98.81,Minor Irrigation 65,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Perennial,Hactares
+MI05GW01I04,699.8,Minor Irrigation 66,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Others,Hactares
+MI05GW01I05,228134.45,Minor Irrigation 67,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Kharif,Hactares
+MI05GW01I06,2311474.17,Minor Irrigation 68,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Rabi,Hactares
+MI05GW01I07,2153.71,Minor Irrigation 69,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Perennial,Hactares
+MI05GW01I08,48983.92,Minor Irrigation 70,Ground Water,Dugwell,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Others,Hactares
