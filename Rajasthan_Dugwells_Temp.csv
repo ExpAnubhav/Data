@@ -1,0 +1,67 @@
+Value,Parameter,Sub_Type
+618350,Type,Number of Dugwell-Pucca
+80227,Type,Number of Dugwell-Kutcha
+176594,Type,Number of Dugwell-Dug-cum bore well
+443,Type,Number of Dugwell-Others
+832503,Distribution by Status of Utilisation,Dugwells in use
+21838,Distribution by Status of Utilisation,Dugwells not in use - Temporary
+21273,Distribution by Status of Utilisation,Dugwells not in use - Parmanent
+325951,Distribution according to Water Distribution System and Potential Utilised,Dugwell Open Water - Total No
+836869.51,Distribution according to Water Distribution System and Potential Utilised,Dugwell Open Water - Total PU
+63726,Distribution according to Water Distribution System and Potential Utilised,Dugwell Under ground pipe - No.
+182053.66,Distribution according to Water Distribution System and Potential Utilised,Dugwell Under ground pipe - PU
+300219,Distribution according to Water Distribution System and Potential Utilised,Dugwell Surface pipe - No.
+935093.97,Distribution according to Water Distribution System and Potential Utilised,Dugwell Surface pipe - PU
+4936,Distribution according to Water Distribution System and Potential Utilised,Dugwell Drip - No.
+12837.65,Distribution according to Water Distribution System and Potential Utilised,Dugwell Drip - PU
+137039,Distribution according to Water Distribution System and Potential Utilised,Dugwell Sprinkler - No.
+718842.3,Distribution according to Water Distribution System and Potential Utilised,Dugwell Sprinkler - PU
+632,Distribution according to Water Distribution System and Potential Utilised,Dugwell Others - No.
+1500.91,Distribution according to Water Distribution System and Potential Utilised,Dugwell Others - PU
+832503,Distribution according to Water Distribution System and Potential Utilised,Dugwell TOTAL - NUMBER
+2687198,Distribution according to Water Distribution System and Potential Utilised,Dugwell TOTAL - POTENTIAL UTILISED
+2091,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 0-2 HP
+52199,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 2-4 HP
+322206,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 4-6 HP
+115614,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 6-8 HP
+125579,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - 8-10 HP
+205627,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - Above 10 HP
+21674,"Distribution  (In Use, Temporarily Not In Use ) according to Horse Power of Lifting Devices",No. of Dugwell by horse power of lifting devices - Schemes without horse power
+779490,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - <200 hrs
+27179,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 200-400 hrs
+10800,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 400-600
+4324,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 600-800 hrs
+904,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - 800-1000 hrs
+619,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Kharif Season - >=1000 hrs
+290889,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - <200 hrs
+204241,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 200-400 hrs
+155066,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 400-600 hrs
+117126,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 600-800 hrs
+39611,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - 800-1000 hrs
+16383,"Distribution  (In Use, Temporarily Not In Use ) according to total Hours of Pumping Operation",Through Dugwell During Rabi season - >=1000 hrs
+2775950.02,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Culturable Command Area
+411734.35,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Kharif
+2580478.55,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Rabi
+4626.29,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Perennial
+79372.57,Culturable Command Area and Season Wise Potential Created ,Through Dugwell Irrigation potential created - Other
+2878077.8,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Culturable Command Area
+424922.47,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Kharif
+2674411.55,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Rabi
+5305.49,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Perennial
+80649.81,Culturable Command Area and Season Wise Potential Created (In Use) ,Through Dugwell Irrigation potential created - Other
+7088.62,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Kharif
+88720.15,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Rabi
+98.81,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Perennial
+701.05,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Others
+228521.19,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Kharif
+2315111.2,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Rabi
+2154.33,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Perennial
+49059.49,Season Wise Potential Utilised ,Through Dugwell Area irrigated during 2013-2014 - Outside Command - Others
+7086.65,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Kharif
+88566.49,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Rabi
+98.81,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Perennial
+699.8,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Inside Command of Major/Medium Project - Others
+228134.45,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Kharif
+2311474.17,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Rabi
+2153.71,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Perennial
+48983.92,Season Wise Potential Utilised (In Use),Through Dugwell Area irrigated during 2013-2014 - Outside Command - Others
